@@ -1,0 +1,6 @@
+__pycache__/
+venvs/
+venvssource/
+vehicleCatboostModel.pkl
+predictFunctions/catboost_info/
+predictFunctions/vehicleCatboostModell.pkl
